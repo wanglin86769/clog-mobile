@@ -1,0 +1,21 @@
+.p-menubar {
+    // background: RGB(52, 58, 64) !important;
+    position: sticky !important;
+    z-index: 999;
+    @include linear-gradient-left(#07BDF4,lightblue);
+}
+
+.p-menuitem-text, .p-menuitem-icon, .p-submenu-icon {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.logo {
+	vertical-align: middle; 
+    // color: RGB(255,255,255);
+    color: RGB(255,225,135);
+	font-weight: bold; 
+	font-size: 1.4em;
+    margin-right: 10px;
+}
+
