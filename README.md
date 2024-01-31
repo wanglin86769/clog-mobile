@@ -111,7 +111,7 @@ By default, the web pages can be visited on Port 8080,
 http://localhost:8080/
 ```
 
-## Get Olog service up and running on Windows 10
+## Get Clog web service up and running
 
 Refer to the following Clog repo,
 
